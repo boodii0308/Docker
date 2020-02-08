@@ -1,0 +1,7 @@
+docker run hello-world
+
+# Make sure env is set up
+# List Docker containers (running, all, all in quiet mode)
+# 'docker container ls'
+# 'docker container ls --all'
+# 'docker container ls -aq'

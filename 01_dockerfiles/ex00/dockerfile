@@ -1,0 +1,4 @@
+From alpine
+Run apk update && apk add vim
+
+CMD vim /root/lol
